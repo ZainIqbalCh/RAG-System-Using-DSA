@@ -1,0 +1,39 @@
+{
+   "Air University" : {
+      "Departments" : {
+         "ai" : {
+            "INFO" : "General Info :\nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         },
+         "cyber security" : {
+            "INFO" : "General Info : \nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         },
+         "ds" : {
+            "INFO" : "General Info : \nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         },
+         "gaming" : {
+            "INFO" : "General Info : \nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         },
+         "se" : {
+            "INFO" : "General Info : \nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         },
+         "cs" : {
+            "INFO" : "General Info : \nDean = Dr. Ammar Masood\nTotal Semesters = 8\nBlock = A\nSamester 1 :\n1)Introduction to Information and Communication Technologies\n2)Introduction to Information and Communication Technologies Lab\n3)Programming Fundamentals\n4)Programming Fundamentals Lab\n5)Reading and Writing Skills\n6)Islamic Studies and Ethics\n7)Pre-Calculus\n8)Foundational Mathematics\n\nSamester 2 :\n1)Database\n2)Database Lab\n3)Digital Logic Design (DLD)\n4)DLD Lab\n5)Object-Oriented Programming (OOP)\n6)OOP Lab\n7)Discrete Structures\n"
+         }
+
+      },
+      "Societies" : {
+         "audas" : {
+            "INFO" : "Head Name: Dr. Sara Ahmed\nDeveloped Date : 2018-09-01\nReason : Promote data and AI-related activities\nBenefits : Skill development, Networking opportunities"
+         },
+         "augdsc" : {
+            "INFO" : "Head Name: Mr. Bilal Sheikh\nDeveloped Date : 2019-11-20\nReason : Promote Google development tools\nBenefits : Practical experience, Community growth"
+         },
+         "aumlsa" : {
+            "INFO" : "Head Name: Ms. Aisha Khan\nDeveloped Date : 2020-05-10\nReason : Microsoft platform advocacy\nBenefits : Certification support, Leadership skills"
+         },
+         "auses" : {
+            "INFO" : "Head Name: Mr. Kamran Ali\nDeveloped Date : 2016-01-15\nReason : Enhance software engineering skills\nBenefits : Project experience, Career growth"
+         }
+      }
+   }
+}
